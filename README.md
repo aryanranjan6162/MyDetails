@@ -1,5 +1,5 @@
 <body>
-<h1>A passionate and self-motivated individual, enthusiastically keen to learn and explore.</h1>
+<h1> Pursuing B.Tech(IT) at HMRITM Affiliated with IP University | A passionate and self-motivated individual, enthusiastically keen to learn and explore.</h1>
 <h3>👋 Hi, I’m @aryanranjan6162  (Aryan Ranjan)</h3>
 <h3>👀 I’m interested in website designing.</h3>
 <h3>🌱 I’m currently learning UI/UX Development.</h3>
