@@ -43,13 +43,9 @@
   </a> 
   </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanranjan6162&show_icons=true&locale=en&layout=compact" alt="chetnagrover00" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanranjan6162&show_icons=true&locale=en&layout=compact" alt="chetnagrover00" /></p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanranjan6162&show_icons=true&locale=en" alt="aryanranjan6162" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanranjan6162&show_icons=true&locale=en" alt="aryanranjan6162" /></p>
 © 2021 GitHub, Inc.
 </body>
 <!---
