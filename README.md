@@ -1,5 +1,5 @@
 <body>
- <h1>Hey there! 🙋‍♂️ I'm Aryan</h1>
+ <h1>Hey there! 🙋‍♂️ I'm Aryan</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetnagrover00&label=Profile%20views&color=0e75b6&style=flat" alt="chetnagrover00" /> </p>
   <hr>
 <h1> Pursuing B.Tech(IT) at HMRITM Affiliated with IP University | A passionate and self-motivated individual, enthusiastically keen to learn and explore.</h1>
   </hr>
